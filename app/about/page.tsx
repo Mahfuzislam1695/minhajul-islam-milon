@@ -7,7 +7,7 @@ import { HeroPattern } from "@/components/hero-pattern"
 export default function AboutPage() {
   return (
     <div>
-      <section className="relative overflow-hidden py-20">
+      <section className="relative py-20">
         <HeroPattern />
         <div className="container relative z-10">
           <div className="mx-auto max-w-3xl text-center">
@@ -53,7 +53,7 @@ export default function AboutPage() {
                       <div className="space-y-4 text-muted-foreground">
                         <p>
                           I am Minhajul Islam Milon, an Assistant Teacher at a Government Primary School in Bangladesh.
-                          With over 17 years of teaching experience, I have dedicated my career to improving education
+                          With over 10 years of teaching experience, I have dedicated my career to improving education
                           through innovative teaching methods and technology integration. I believe in creating engaging
                           learning environments that inspire students to explore, question, and grow.
                         </p>
@@ -115,7 +115,7 @@ export default function AboutPage() {
                   <div className="space-y-6">
                     <div className="flex items-start gap-4">
                       <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
-                        <Badge className="h-6 w-6 rounded-full p-1.5">2020</Badge>
+                        <Badge className="h-10 w-10 rounded-full p-1.5">2020</Badge>
                       </div>
                       <div>
                         <h3 className="text-lg font-medium">সেরা উদ্ভাবক</h3>
@@ -126,7 +126,7 @@ export default function AboutPage() {
                     </div>
                     <div className="flex items-start gap-4">
                       <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
-                        <Badge className="h-6 w-6 rounded-full p-1.5">2019</Badge>
+                        <Badge className="h-10 w-10 rounded-full p-1.5">2019</Badge>
                       </div>
                       <div>
                         <h3 className="text-lg font-medium">জেলা শ্রেষ্ঠ সহকারী শিক্ষক</h3>
@@ -137,7 +137,7 @@ export default function AboutPage() {
                     </div>
                     <div className="flex items-start gap-4">
                       <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
-                        <Badge className="h-6 w-6 rounded-full p-1.5">2018</Badge>
+                        <Badge className="h-10 w-10 rounded-full p-1.5">2018</Badge>
                       </div>
                       <div>
                         <h3 className="text-lg font-medium">Co-ordinator: British Council</h3>
@@ -148,7 +148,7 @@ export default function AboutPage() {
                     </div>
                     <div className="flex items-start gap-4">
                       <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
-                        <Badge className="h-6 w-6 rounded-full p-1.5">2018</Badge>
+                        <Badge className="h-10 w-10 rounded-full p-1.5">2018</Badge>
                       </div>
                       <div>
                         <h3 className="text-lg font-medium">ICT4E Ambassador</h3>
@@ -159,7 +159,7 @@ export default function AboutPage() {
                     </div>
                     <div className="flex items-start gap-4">
                       <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
-                        <Badge className="h-6 w-6 rounded-full p-1.5">2018</Badge>
+                        <Badge className="h-10 w-10 rounded-full p-1.5">2018</Badge>
                       </div>
                       <div>
                         <h3 className="text-lg font-medium">Physical Education Trainer</h3>
@@ -178,7 +178,7 @@ export default function AboutPage() {
                   <div className="space-y-6">
                     <div className="flex items-start gap-4">
                       <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
-                        <Badge className="h-6 w-6 rounded-full p-1.5">2015</Badge>
+                        <Badge className="h-10 w-10 rounded-full p-1.5">2015</Badge>
                       </div>
                       <div>
                         <h3 className="text-lg font-medium">Bachelor of Education (B.Ed)</h3>
@@ -187,7 +187,7 @@ export default function AboutPage() {
                     </div>
                     <div className="flex items-start gap-4">
                       <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
-                        <Badge className="h-6 w-6 rounded-full p-1.5">2013</Badge>
+                        <Badge className="h-10 w-10 rounded-full p-1.5">2013</Badge>
                       </div>
                       <div>
                         <h3 className="text-lg font-medium">Diploma in Primary Education</h3>
@@ -196,7 +196,7 @@ export default function AboutPage() {
                     </div>
                     <div className="flex items-start gap-4">
                       <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
-                        <Badge className="h-6 w-6 rounded-full p-1.5">2018</Badge>
+                        <Badge className="h-10 w-10 rounded-full p-1.5">2018</Badge>
                       </div>
                       <div>
                         <h3 className="text-lg font-medium">ICT in Education Training</h3>
@@ -205,7 +205,7 @@ export default function AboutPage() {
                     </div>
                     <div className="flex items-start gap-4">
                       <div className="flex h-12 w-12 flex-shrink-0 items-center justify-center rounded-full bg-primary/10 text-primary">
-                        <Badge className="h-6 w-6 rounded-full p-1.5">2019</Badge>
+                        <Badge className="h-10 w-10 rounded-full p-1.5">2019</Badge>
                       </div>
                       <div>
                         <h3 className="text-lg font-medium">Innovative Teaching Methods</h3>
